@@ -31,7 +31,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BHAGWANUSERBOT/MAGAMBOUSER)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BHAGWANUSERBOT/MAGAMBOUSERBOT)
 
 # Requirements 
 * Python 3.8 or Higher
